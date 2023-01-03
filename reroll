@@ -2068,4 +2068,3 @@ end
 	Tab:Show()
 	library:FormatWindows()
 end
-1
